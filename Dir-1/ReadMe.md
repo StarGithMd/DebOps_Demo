@@ -17,5 +17,7 @@
 
 
 #### 01_Ans. There are two task has to be performed as below.
-- [A] Create file unter the path : touch /home/demo.txt
-- [B] User can read, Group can read/write and owner can read/write/excute : chmod 764 /home/demo.txt
+- [A] Create file unter the path:
+  - touch /home/demo.txt
+- [B] User can read, Group can read/write and owner can read/write/excute:
+  - chmod 764 /home/demo.txt

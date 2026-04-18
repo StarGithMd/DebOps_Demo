@@ -16,8 +16,10 @@
 #### 01_Q. Create a file with .txt extension (/home/demo.txt). Change the permission set of that file, so that any user can read it, group can read/write & owner can read/write/execute it.
 
 
-#### 01_Ans. There are two task has to be performed as below.
-- [A] Create file unter the path:
+#### 01_Ans. There are three task has to be performed as below.
+- [A] Create file unter the path: 
   - $ touch /home/demo.txt
-- [B] User can read, Group can read/write and owner can read/write/excute:
+- [B] User can read, Group can read/write and owner can read/write/excute: 
   - $ chmod 764 /home/demo.txt
+- [C] List the file permission:
+  - $ pwd; ls -l

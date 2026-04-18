@@ -1,6 +1,9 @@
 
-#### File Permission Task URL : https://docs.google.com/document/d/1DE33CLw58HI1wOKju-Hzu4g-44gLzCENf5WBb9X5KrI/edit.
-#### Techstacks needs to be used : Shell (AWS, Gitbash, WSL, Vbox).
+#### File Permission Task URL: 
+- https://docs.google.com/document/d/1DE33CLw58HI1wOKju-Hzu4g-44gLzCENf5WBb9X5KrI/edit.
+  
+#### Techstacks needs to be used: 
+- Shell (AWS, Gitbash, WSL, Vbox).
 
 #### How do I submit my work? #
 - Push all your work files to GitHub (O/P screenshot images must).
@@ -15,6 +18,7 @@
 ### Task Description: 
 #### 01_Q. Create a file with .txt extension (/home/demo.txt). Change the permission set of that file, so that any user can read it, group can read/write & owner can read/write/execute it.
 
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 #### 01_Ans. There are three task has to be performed as below.
 - [A] Create file unter the path: 

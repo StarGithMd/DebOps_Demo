@@ -3,5 +3,5 @@
 #### Techstacks needs to be used : Shell (AWS, Gitbash, WSL, Vbox).
 
 #### How do I submit my work? #
-- ** Push all your work files to GitHub (O/P screenshot images must).
-- ** Submit your URLs in the portal.
+- Push all your work files to GitHub (O/P screenshot images must).
+- Submit your URLs in the portal.
